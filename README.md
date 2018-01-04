@@ -1,1 +1,1 @@
-blogger-slider
+Based on http://imageslidermaker.com/
